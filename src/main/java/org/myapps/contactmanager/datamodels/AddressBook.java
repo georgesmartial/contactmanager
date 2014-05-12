@@ -1,4 +1,4 @@
-package org.myapps.contactmanager;
+package org.myapps.contactmanager.datamodels;
 
 import java.util.Collection;
 import java.util.Iterator;
