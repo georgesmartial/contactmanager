@@ -124,8 +124,7 @@ public class ContactName {
 				+ "]";
 	}
 
-	public String getFormattedContactName()
-	{
-		return null; //TODO
+	public String getFormattedContactName() {
+		return null; // TODO
 	}
 }

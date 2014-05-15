@@ -121,8 +121,7 @@ public class ContactAddress {
 				+ locality + ", country=" + country + "]";
 	}
 
-	public String getFormattedContactAddress()
-	{
+	public String getFormattedContactAddress() {
 		return null; // TODO
 	}
 }
