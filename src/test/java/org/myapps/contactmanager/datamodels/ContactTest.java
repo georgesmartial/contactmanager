@@ -1,4 +1,4 @@
-package org.myapps.contactmanager;
+package org.myapps.contactmanager.datamodels;
 
 import static org.junit.Assert.*;
 
